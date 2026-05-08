@@ -1,0 +1,36 @@
+Session: 2026-04-15 20:39:50
+Difficulty: Easy
+Anger: 1/1
+Sadness: 1/1
+Disgust: 1/1
+Fear: 0/1
+Confusion: 1/1
+Neutral: 1/1
+Joy: 1/1
+Surprise: 0/1
+Final Score: 6/8
+------------------------------
+Session: 2026-04-15 20:40:10
+Difficulty: Easy
+Anger: 1/1
+Sadness: 1/1
+Disgust: 1/1
+Fear: 1/1
+Confusion: 1/1
+Neutral: 1/1
+Joy: 1/1
+Surprise: 0/1
+Final Score: 7/8
+------------------------------
+Session: 2026-04-15 20:44:29
+Difficulty: Hard
+Anger: 1/1
+Sadness: 1/1
+Disgust: 1/1
+Fear: 1/1
+Confusion: 1/1
+Neutral: 1/1
+Joy: 1/1
+Surprise: 1/1
+Final Score: 8/8
+------------------------------
