@@ -6,6 +6,15 @@ from datetime import datetime
 
 # --- Configuration ---
 IMAGE_DATA_SOURCE = [
+    # Aaron
+    ('images/anger_aaron.png', 'a', 'Anger'),
+    ('images/sadness_aaron.png', 's', 'Sadness'),
+    ('images/disgust_aaron.png', 'd', 'Disgust'),
+    ('images/fear_aaron.png', 'f', 'Fear'),
+    ('images/confusion_aaron.png', 'c', 'Confusion'),
+    ('images/neutral_aaron.png', 'n', 'Neutral'),
+    ('images/joy_aaron.png', 'j', 'Joy'),
+    ('images/surprise_aaron.png', 'p', 'Surprise'),
     # Adam
     ('images/anger_adam.png', 'a', 'Anger'),
     ('images/sadness_adam.png', 's', 'Sadness'),
@@ -32,7 +41,16 @@ IMAGE_DATA_SOURCE = [
     ('images/confusion_alice.png', 'c', 'Confusion'),
     ('images/neutral_alice.png', 'n', 'Neutral'),
     ('images/joy_alice.png', 'j', 'Joy'),
-    ('images/surprise_alice.png', 'p', 'Surprise')
+    ('images/surprise_alice.png', 'p', 'Surprise'),
+    # Anna
+    ('images/anger_anna.png', 'a', 'Anger'),
+    ('images/sadness_anna.png', 's', 'Sadness'),
+    ('images/disgust_anna.png', 'd', 'Disgust'),
+    ('images/fear_anna.png', 'f', 'Fear'),
+    ('images/confusion_anna.png', 'c', 'Confusion'),
+    ('images/neutral_anna.png', 'n', 'Neutral'),
+    ('images/joy_anna.png', 'j', 'Joy'),
+    ('images/surprise_anna.png', 'p', 'Surprise')
 ]
 
 class EmotionGame:
