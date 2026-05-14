@@ -59,7 +59,16 @@ IMAGE_DATA_SOURCE = [
     ('images/confusion_ben.png', 'c', 'Confusion'),
     ('images/neutral_ben.png', 'n', 'Neutral'),
     ('images/joy_ben.png', 'j', 'Joy'),
-    ('images/surprise_ben.png', 'p', 'Surprise')
+    ('images/surprise_ben.png', 'p', 'Surprise'),
+    # Beth
+    ('images/anger_beth.png', 'a', 'Anger'),
+    ('images/sadness_beth.png', 's', 'Sadness'),
+    ('images/disgust_beth.png', 'd', 'Disgust'),
+    ('images/fear_beth.png', 'f', 'Fear'),
+    ('images/confusion_beth.png', 'c', 'Confusion'),
+    ('images/neutral_beth.png', 'n', 'Neutral'),
+    ('images/joy_beth.png', 'j', 'Joy'),
+    ('images/surprise_beth.png', 'p', 'Surprise')
 ]
 
 class EmotionGame:
